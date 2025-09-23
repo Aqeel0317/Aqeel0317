@@ -112,7 +112,8 @@ My work showcases proficiency in a variety of modern technologies. Click to expa
 ### 📈 My GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aqeel0317&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Aqeel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aqeel0317&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aqeel's GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aqeel0317&theme=tokyonight&hide_border=true" alt="Aqeel's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqeel0317&layout=compact&theme=tokyonight&hide_border=true" alt="Aqeel's Top Languages" />
 </div>
