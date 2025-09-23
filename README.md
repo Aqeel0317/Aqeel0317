@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/Aqeel0317">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Aqeel+Ahmed!;A+Full-Stack+Developer;An+AI+%26+ML+Enthusiast;I+build+intelligent+applications" alt="Typing animation of Aqeel Ahmed's bio">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Aqeel+Ahmed!;A+Full-Stack+Developer;An+AI+%26+ML+Enthusiast;I+build+intelligent+applications" alt="Typing animation of Aqeel Ahmed's bio">
   </a>
 </h1>
 
