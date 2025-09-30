@@ -7,13 +7,13 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/your_linkedin_profile" target="_blank">
+  <a href="www.linkedin.com/in/aqeel-ahmed-464387367" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://facebook.com/your_facebook_profile" target="_blank">
+  <a href="https://web.facebook.com/profile.php?id=61554205121188" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:Aqeel03319384502@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
